@@ -1,9 +1,9 @@
 # Me
 
 - 👋 Hi, I’m @felixmielcarek
-- 👀 I’m interested in computer science, music,...
-- 🌱 I’m currently learning computer science at UCA (University Clermont Auvergne), more precisely in the third year of BUT (University Bachelors in Technology).
-- 📫 You can reach me on my university email address: Felix.MIELCAREK@etu.uca.fr .
+- 👀 I’m interested in computer science, music, sports...
+- 🌱 I’m currently in an engineering degree specialised in computer science at ESIEE Paris (Gustave Eiffel University).
+- 📫 You can reach me on my university email address: felix.mielcarek@edu.esiee.fr .
 
 # My skills
 
