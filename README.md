@@ -1,11 +1,9 @@
 # Me
 
 - 👋 Hi, I’m @felixmielcarek
-- 👀 I’m interested in computer science, music and sports.
+- 👀 Check my [portfelio](https://felixmielcarek.github.io/) to discover my projects.
 - 🌱 I’m currently in an engineering degree specialised in computer science at ESIEE Paris (Gustave Eiffel University).
 - 📫 You can reach me on my university email address: felix.mielcarek@edu.esiee.fr .
-
-> My current projects are pinned
 
 # My skills
 
